@@ -1,6 +1,6 @@
 # Restaurant-Reservation-System-Documentation 
 
-Project Title: Dine Easy - Restaurant Reservation System (Mobile & Web Based)
+Project Title: Dine Easy - Restaurant Reservation System 
 
 Group Name: Mad Rats
 
